@@ -181,10 +181,9 @@ ll.grid(row = 0,column=cols)
 
 lab1 = []
 
-tile_clean = PhotoImage(file="tile2.png")
-tile_dirty = PhotoImage(file="tile1.png")
-done_icon = PhotoImage(file="done_icon.png")
-proc_icon = PhotoImage(file="proc_icon.png")
+tile_clean = PhotoImage(file="Src\\tile2.png")
+tile_dirty = PhotoImage(file="Src\\tile1.png")
+done_icon = PhotoImage(file="Src\done_icon.png")
 
 
 initmap(rows,cols)
